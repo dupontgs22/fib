@@ -15,4 +15,4 @@ def fibonacci(n):
 fibonacci_numbers = fibonacci(5)
 
 # Print the first 5 Fibonacci numbers
-print("Thee first 5 Fibonacci numbers are:", fibonacci_numbers)
+print("Thee first 5 Fibonacci numbers are:", fibonacci_numbe
